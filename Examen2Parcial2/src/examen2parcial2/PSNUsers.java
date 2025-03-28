@@ -60,7 +60,6 @@ public class PSNUsers {
                 }
             }
         } catch (EOFException e){
-            System.out.println("Archivo corrupto");
         } 
     }
     /*

@@ -122,7 +122,7 @@ public class GUI extends JFrame{
         panel.add(new JLabel("Username:"));
         panel.add(fieldUser);
         panel.add(new JLabel("Juego:"));
-        panel.add(comboGames);  // Aquí agregas el ComboBox al panel
+        panel.add(comboGames);
         panel.add(new JLabel("Nombre Trofeo:"));
         panel.add(fieldTrophyName);
         panel.add(new JLabel("Tipo:"));
